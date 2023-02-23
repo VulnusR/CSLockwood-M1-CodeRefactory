@@ -37,7 +37,7 @@ Deployed Application:
 
 ### Screenshot
 
-![Screen Shot of the Module 1 project at it appears in the live server after my code recator changes](./Develop/assets/images/SS4submission.png "Module 1 Project Screen")
+![Screen Shot of the Module 1 project at it appears in the live server after my code recator changes](VulnusR/CSLockwood-M1-CodeRefactory/Develop/assets/images/SS4submission.png "Module 1 Project Screen")
 
 ### Contact
 
