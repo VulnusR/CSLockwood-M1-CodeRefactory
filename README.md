@@ -1,7 +1,9 @@
 # Code Refactor Starter Code
 
 ## Description
-For this assignment I needed to refactor code for the fictional marketing agency Horiseon.
+This repo is for the UCLA fullstack program bootcamp, module 1. <br>
+This assignment was to refactory code to make it more efficent and to demonstrate an understanding of best practices of HTML and CSS. <br>
+The module 1 assignment procided the following as a guideline and criteria for the assignment:
 
 ### User Story
 AS A marketing agency <br>
@@ -23,18 +25,21 @@ THEN I find a concise, descriptive title<br>
 
 ### Changes Made
 1) Fixed page title
-2) HTML Optimized
-3) Inserted ALT text for images 
+2) HTML Optimized - Divs replaced with semantic HTML elements, as well as formatting/spacing changes to be more in line with HTML best practices. 
+3) Inserted ALT text for images to bring the webpage in line with disability standards.
+4) Altered CSS and respective HTML classes to prevent excess code -- an elimination of reduncies.
 
 
-### Link
-
-
+### Links
+Original Repo: https://github.com/coding-boot-camp/urban-octo-telegram <br>
+Deployed Application:
 
 
 ### Screenshot
 
-
+![Screen Shot of the Module 1 project at it appears in the live server after my code recator changes](VulnusR/CSLockwood-M1-CodeRefactory/Develop/assets/images/SS4submission.png "Module 1 Project Screen")
 
 ### Contact
 
+Github: VulnusR
+Gmail: Caleb.lockwood626@gmail.com, Vulnus.Regium@gmail.com
